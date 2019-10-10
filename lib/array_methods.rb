@@ -1,23 +1,29 @@
-def using_include(array, element)
+def #include
+  places_to_visit.include?(Berlin)
 
 end
 
-def using_sort(array)
+def #sort
+  places_to_visit.sort
 
 end
 
-def using_reverse(array)
+def #reverse  
+  places_to_visit.reverse
 
 end
 
-def using_first(array)
+def #first
+  places_to_visit.first
 
 end
 
-def using_last(array)
+def #last
+  places_to_visit.last
 
 end
 
-def using_size(array)
+def #size 
+  places_to_visit.size
 
 end
